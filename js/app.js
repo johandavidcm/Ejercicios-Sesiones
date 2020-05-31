@@ -25,4 +25,7 @@ $(document).ready(function(){
         });
     });
 
+    // $( document ).on('click keyup keypress keydown blur change mousemove', function(e){
+
+    // });
 });

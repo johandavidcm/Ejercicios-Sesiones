@@ -15,7 +15,6 @@
             require('./views/index.php');
         } else {
             require('./views/login.php'); 
-            require('./views/registro.php'); 
         }
         require_once('./components/scripts.php'); 
     ?>

@@ -11,7 +11,5 @@
         </div>
         <p id="respuesta" class="text-danger"></p>
         <button type="submit" class="btn btn-primary btn-block">Ingresar</button>
-        <button type="button" class="btn btn-outline-primary btn-block" data-toggle="modal"
-            data-target="#modal_registro">Registrarse</button>
     </form>
 </div>
